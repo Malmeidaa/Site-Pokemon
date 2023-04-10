@@ -1,0 +1,106 @@
+.telalogin{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(243, 239, 239, 0.9);
+    position: absolute;
+    padding: 15px;
+    color: black;
+    top: 25%;
+    left: 50%;
+    transform:translate(-50%,-50%);
+    border-radius: 15px;
+    text-align: center  ;
+}
+.tela1{
+    background-image: url(../pokemon/pokemon_wallpaper01_1680.jpg);
+}
+.input1{
+    padding: 15px;
+    border: none;
+    outline: none;
+    font-size: 15px;
+}
+.button{
+    background-color: dodgerblue;
+    padding: 15px;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    width: 100%;
+    font-size: 15px;
+    
+}
+.button:hover{
+    background-color: deepskyblue;
+}
+
+.menu{
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
+    background-color: dodgerblue;
+    padding: 20px;
+    font-size: 20px;
+
+}
+.menu li{
+    display: inline;
+    text-align: left;
+    
+    
+}
+.menu li a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    
+}.menu li a:hover{
+    color: deepskyblue;
+    
+    
+}
+.telap{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(../pokemon/peakpx.jpg);
+    color: black;
+    text-align: center;
+    
+    
+}
+.telap img{
+    background-color: rgba(243, 243, 243, 0.8); 
+    padding: 10px;
+    border-radius: 5px;
+    
+}.telap h1{
+    background-color: rgba(243, 243, 243, 0.8); 
+    padding: 10px;
+}
+.telareg{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(../pokemon/pokebola.jpg);
+    color: white;
+}
+.form{
+    background-color: rgba(20, 18, 18, 0.9);
+    position: absolute;
+    padding: 20px;
+    border-radius: 5px;
+    top: 50%;
+    left: 50%;
+    transform:translate(-50%,-50%);
+    font-size: 20px;
+}
+footer{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(243, 239, 239, 0.9);
+    position: absolute;
+    padding: 10px;
+    border-radius: 50px;
+    
+   
+  
+}
+footer a{
+    text-decoration: none;
+    color: black;
+    padding: 0px;
+}
